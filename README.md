@@ -19,7 +19,7 @@ A production-ready React starter template with optimized configuration for moder
 
 - react-project-setup/
 - ├── public/               # Static assets
-├── src/
+- ├── src/
 │   ├── assets/           # Images, fonts, etc.
 │   ├── components/       # Reusable components
 │   ├── pages/            # Route-based components
