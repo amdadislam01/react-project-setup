@@ -1,12 +1,22 @@
-# React + Vite
+# ⚛️ React Project Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amdadislam01/react-project-setup/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/amdadislam01/react-project-setup)](https://github.com/amdadislam01/react-project-setup/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/amdadislam01/react-project-setup)](https://github.com/amdadislam01/react-project-setup/issues)
 
-Currently, two official plugins are available:
+A production-ready React starter template with optimized configuration for modern web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚡ **Zero-config** setup with Vite
+- 🎨 **Tailwind CSS** integration
+- 📱 **Fully responsive** design
+- 🛠 **Pre-configured** ESLint + Prettier
+- 📦 **Component-based** architecture
+- 🔥 **Hot Module Replacement**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Quick Start
+
+1. Clone the repository:
+```bash
+git clone https://github.com/amdadislam01/react-project-setup.git
