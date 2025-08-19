@@ -18,7 +18,7 @@ A production-ready React starter template with optimized configuration for moder
 ## 📂 Project Structure
 
 - react-project-setup/
-├── public/               # Static assets
+- ├── public/               # Static assets
 ├── src/
 │   ├── assets/           # Images, fonts, etc.
 │   ├── components/       # Reusable components
