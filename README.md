@@ -20,17 +20,17 @@ A production-ready React starter template with optimized configuration for moder
 - react-project-setup/
 - ├── public/               # Static assets
 - ├── src/
-│   ├── assets/           # Images, fonts, etc.
-│   ├── components/       # Reusable components
-│   ├── pages/            # Route-based components
-│   ├── styles/           # Global styles
-│   ├── App.jsx           # Main application
-│   └── main.jsx          # Entry point
-├── .eslintrc.js          # ESLint config
-├── .prettierrc           # Prettier config
-├── tailwind.config.js    # Tailwind config
-├── vite.config.js        # Vite config
-└── package.json
+- │   ├── assets/           # Images, fonts, etc.
+- │   ├── components/       # Reusable components
+- │   ├── pages/            # Route-based components
+- │   ├── styles/           # Global styles
+- │   ├── App.jsx           # Main application
+- │   └── main.jsx          # Entry point
+- ├── .eslintrc.js          # ESLint config
+- ├── .prettierrc           # Prettier config
+- ├── tailwind.config.js    # Tailwind config
+- ├── vite.config.js        # Vite config
+- └── package.json
 
 --
 
