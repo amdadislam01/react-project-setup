@@ -15,6 +15,13 @@ A production-ready React starter template with optimized configuration for moder
 - 📦 **Component-based** architecture
 - 🔥 **Hot Module Replacement**
 
+## 📂 Project Structure
+
+
+
+
+
+
 ## 🚀 Quick Start
 
 1. Clone the repository:
