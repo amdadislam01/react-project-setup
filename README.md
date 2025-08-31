@@ -1,4 +1,4 @@
-# ⚛️ React Project Boilerplat
+# ⚛️ React Project Boilerplate
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amdadislam01/react-project-setup/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/amdadislam01/react-project-setup)](https://github.com/amdadislam01/react-project-setup/stargazers)
